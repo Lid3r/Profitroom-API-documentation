@@ -1,5 +1,5 @@
 https://booking.profitroom.com/api/diamantevillamijas/rooms - pokoje, Array: 
-```
+```json
 {
         "id": 327546,
         "gallery": {
