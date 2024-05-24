@@ -149,7 +149,7 @@ https://booking.profitroom.com/api/diamantevillamijas/rooms - pokoje, Array:
 ```
 
 https://booking.profitroom.com/api/diamantevillamijas/details - informacje o obiekcie
-```
+```json
 {
     "locales": [
         {
@@ -253,7 +253,7 @@ https://booking.profitroom.com/api/diamantevillamijas/details - informacje o obi
 ```
 
 https://booking.profitroom.com/api/diamantevillamijas/vouchers/categories - kategorie voucherów, Array
-```
+```json
 {
 	"id": "f8e9c38d-4c9f-4b43-8e52-c6ff5d8a5fc2",
 	"translations": [
@@ -289,7 +289,7 @@ https://booking.profitroom.com/api/diamantevillamijas/vouchers/categories - kate
 ```
 
 https://booking.profitroom.com/api/diamantevillamijas/person-types - typy osób
-```
+```json
 [
 	{
 		"type":"A",
@@ -306,7 +306,7 @@ https://booking.profitroom.com/api/diamantevillamijas/person-types - typy osób
 (Prawdopodobnie mapowane na podstawie pierwszych liter: Adult, Child, Teenager, Infant, Junior, Under 10, Under 12, Under 17)
 
 https://booking.profitroom.com/api/diamantevillamijas/currencies - waluty, Array
-```
+```json
 {
 	"code": "PLN",
 	"symbol": "z\u0142",
@@ -315,7 +315,7 @@ https://booking.profitroom.com/api/diamantevillamijas/currencies - waluty, Array
 ```
 
 https://booking.profitroom.com/api/diamantevillamijas/offers?status=1 - oferty, Array
-```
+```json
 {
 	"id": 556148,
 	"type": "O",
